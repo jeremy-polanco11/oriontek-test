@@ -1,0 +1,85 @@
+{
+  "clients": [
+    {
+      "id": "c1f3a3b6-8a3e-4b3a-9b1d-1c2e3f4a5b6c",
+      "name": "Acme Corporation",
+      "email": "contact@acme.com",
+      "phone": "+1-555-100-2000",
+      "createdAt": "2025-01-15T10:30:00.000Z",
+      "addresses": [
+        {
+          "id": "a1d3a3b6-1a3e-4b3a-9b1d-aaaaaaaaaaaa",
+          "label": "Headquarters",
+          "street": "350 5th Avenue",
+          "city": "New York",
+          "state": "NY",
+          "country": "USA",
+          "zipCode": "10118"
+        },
+        {
+          "id": "a1d3a3b6-2a3e-4b3a-9b1d-bbbbbbbbbbbb",
+          "label": "Warehouse",
+          "street": "1200 Industrial Blvd",
+          "city": "Newark",
+          "state": "NJ",
+          "country": "USA",
+          "zipCode": "07105"
+        }
+      ]
+    },
+    {
+      "id": "c2f3a3b6-8a3e-4b3a-9b1d-2c2e3f4a5b6c",
+      "name": "Globex S.A.",
+      "email": "info@globex.do",
+      "phone": "+1-809-555-7777",
+      "createdAt": "2025-02-08T14:00:00.000Z",
+      "addresses": [
+        {
+          "id": "a2d3a3b6-1a3e-4b3a-9b1d-cccccccccccc",
+          "label": "Oficina Principal",
+          "street": "Av. Winston Churchill 1099",
+          "city": "Santo Domingo",
+          "state": "Distrito Nacional",
+          "country": "República Dominicana",
+          "zipCode": "10148"
+        }
+      ]
+    },
+    {
+      "id": "c3f3a3b6-8a3e-4b3a-9b1d-3c2e3f4a5b6c",
+      "name": "Initech Ltd.",
+      "email": "hello@initech.io",
+      "phone": "+44-20-7946-0001",
+      "createdAt": "2025-03-22T09:15:00.000Z",
+      "addresses": [
+        {
+          "id": "a3d3a3b6-1a3e-4b3a-9b1d-dddddddddddd",
+          "label": "London Office",
+          "street": "10 Downing Lane",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "zipCode": "SW1A 2AA"
+        },
+        {
+          "id": "a3d3a3b6-2a3e-4b3a-9b1d-eeeeeeeeeeee",
+          "label": "Manchester Branch",
+          "street": "45 Deansgate",
+          "city": "Manchester",
+          "state": "Greater Manchester",
+          "country": "United Kingdom",
+          "zipCode": "M3 2BW"
+        },
+        {
+          "id": "a3d3a3b6-3a3e-4b3a-9b1d-ffffffffffff",
+          "label": "Edinburgh Branch",
+          "street": "8 Princes Street",
+          "city": "Edinburgh",
+          "state": "Scotland",
+          "country": "United Kingdom",
+          "zipCode": "EH2 2AB"
+        }
+      ]
+    }
+  ]
+}
