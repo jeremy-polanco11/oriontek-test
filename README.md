@@ -215,3 +215,4 @@ Tests are written **service-mocked** rather than HTTP-mocked: thunk tests stub `
 Built in line with the job posting's exact stack to demonstrate fluency with each tool. The MUI + Tailwind hybrid is a deliberate pick: MUI for components (Dialog, Table, form controls — accessibility comes for free), Tailwind for layout and spacing utilities — the best of both, with Preflight disabled to avoid conflicts.
 # oriontek-test
 # oriontek-test
+# oriontek-test
